@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks with lab exercises for practicing and
 ## Notebooks
 
 ### 1. Python_Review_P
-#1_Labs.ipynb
+# 1_Labs.ipynb
 
 #### Lab 1 - Variables
 
@@ -26,7 +26,7 @@ This repository contains Jupyter notebooks with lab exercises for practicing and
   - Explore the use of comparison and logical operators in decisions.
 
 ### 2. Python_Review_P
-#2_Labs.ipynb
+# 2_Labs.ipynb
 
 #### Lab 1 - Loop
 
